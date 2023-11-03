@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Websites**
 
-- 🌱 I’m currently learning **Meta Front-End Developer Professional Certificate**
+- 🌱 I’m currently learning **Linkedin @Hasan Bafuleh**
 
 - 👯 I’m looking to collaborate on **Web Apps**
 
