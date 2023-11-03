@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Apps**
 
-- 📫 How to reach me Linkedin @Hasan Bafuleh
+- 📫 How to reach me [Linkedin @Hasan Bafuleh](https://www.linkedin.com/in/hasan-bafuleh/)
 
 
 <h3 align="left">Connect with me:</h3>
