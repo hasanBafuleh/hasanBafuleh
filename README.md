@@ -3,11 +3,12 @@
 
 - 🔭 I’m currently working on **Websites**
 
-- 🌱 I’m currently learning **Linkedin @Hasan Bafuleh**
+- 🌱 I’m currently learning **Meta Front-End Developer Professional Certificate**
 
 - 👯 I’m looking to collaborate on **Web Apps**
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/hasan-bafuleh/>Linkedin @Hasan Bafuleh</a>
+- 📫 How to reach me Linkedin @Hasan Bafuleh
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
