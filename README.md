@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Meta Front-End Developer Professional Certificate**
 
-- 👯 I’m looking to collaborate on **Web Apps**
+- 👯 I’m looking to collaborate you on **Web Apps**
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/hasan-bafuleh/" target="_blank">Linkedin @Hasan Bafuleh</a>
 
