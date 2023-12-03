@@ -9,6 +9,7 @@
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/hasan-bafuleh/" target="_blank">Linkedin @Hasan Bafuleh</a>
 
+---
 
 ### 🧰 Languages and Tools
 
