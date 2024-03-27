@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan Bafuleh</h1>
 <h3 align="center">Crafting Code with Passion: A Software Engineer's Journey from Jeddah, KSA</h3>
 
-- 🔭 I’m currently working on **.Net**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Meta Front-End Developer Professional Certificate**
 
